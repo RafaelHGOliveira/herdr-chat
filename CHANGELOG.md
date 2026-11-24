@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.7.0](https://github.com/ChmaraX/herdr-chat/compare/v0.6.0...v0.7.0) (2026-11-24)
+
+
+### Features
+
+* **box:** box run --script-file runs a script from outside the worktree ([#55](https://github.com/ChmaraX/herdr-chat/issues/55)) ([2bc8de7](https://github.com/ChmaraX/herdr-chat/commit/2bc8de76f3a93ead98e0a71b11fd9a9897852877))
+
+
+### Bug Fixes
+
+* **chat:** a dialog with a multi-line title keeps its options and the chat in view ([#52](https://github.com/ChmaraX/herdr-chat/issues/52)) ([7c18b61](https://github.com/ChmaraX/herdr-chat/commit/7c18b61b8420c56a6be2dc1d97cbdd327000b5b9))
+* **chat:** restore draft to composer when a sent message is rejected ([#54](https://github.com/ChmaraX/herdr-chat/issues/54)) ([ccd864e](https://github.com/ChmaraX/herdr-chat/commit/ccd864ed2d8439a23335163c80b3c50b80cd0fbc))
+* **chat:** the plan card's reason field asks what should change ([#41](https://github.com/ChmaraX/herdr-chat/issues/41)) ([bf4ed58](https://github.com/ChmaraX/herdr-chat/commit/bf4ed586d5764e3f830231167f096ca03ced6908))
+* **claude:** display configured ANTHROPIC_MODEL and settings model ([#49](https://github.com/ChmaraX/herdr-chat/issues/49)) ([ad9ed39](https://github.com/ChmaraX/herdr-chat/commit/ad9ed399daa5e74e1ddf6331441b15a676b5cec4))
+* **install:** preserve symlinks when editing keys.json and layouts ([#48](https://github.com/ChmaraX/herdr-chat/issues/48)) ([176ec38](https://github.com/ChmaraX/herdr-chat/commit/176ec381087573bcb62789f92a3bab09c37245b9))
+* **new-chat:** the update question no longer blocks the app or stacks ([#40](https://github.com/ChmaraX/herdr-chat/issues/40)) ([14fd564](https://github.com/ChmaraX/herdr-chat/commit/14fd56414e0c419b1a7f0575efa3401c8681fdaf))
+
 ## [0.6.0](https://github.com/ChmaraX/herdr-chat/compare/v0.5.0...v0.6.0) (2026-11-21)
 
 
